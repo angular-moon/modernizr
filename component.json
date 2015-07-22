@@ -4,8 +4,8 @@
     "name": "modernizr",
     "main": "modernizr.js",
     "shim": {
-        "modernizr": {
-            "exports": "window.Modernizr"
+        "modernizr.js": {
+            "exports": "Modernizr"
         }
     }
 }
